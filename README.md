@@ -3,7 +3,7 @@ Hacking on an EdX challenge (http://databits.io/challenges/edx-learning-dashboar
 
 
 ## Overview
-This is primary focused on the student learning experience, with only the initial steps of a teacher interface, which I'll show after.  So it's try to get at things like:
+This is primary focused on the student learning experience, with only the initial steps of a teacher experience.  So it's mostly trying to get at things like:
 
 ![student-learning-experience](doc/student-learning-experience.png)
 
